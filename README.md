@@ -6,7 +6,7 @@ Submitted by: **Ritika**
 
 **HelloWorld app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **75** minutes spent in total
+Time spent: **25** minutes spent in total
 
 ## Required Features
 
